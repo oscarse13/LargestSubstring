@@ -1,0 +1,15 @@
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\bin\Debug\netcoreapp3.1\LargestSubstring.exe
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\bin\Debug\netcoreapp3.1\Data\matrix.txt
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\bin\Debug\netcoreapp3.1\LargestSubstring.deps.json
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\bin\Debug\netcoreapp3.1\LargestSubstring.runtimeconfig.json
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\bin\Debug\netcoreapp3.1\LargestSubstring.runtimeconfig.dev.json
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\bin\Debug\netcoreapp3.1\LargestSubstring.dll
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\bin\Debug\netcoreapp3.1\LargestSubstring.pdb
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\obj\Debug\netcoreapp3.1\LargestSubstring.csproj.AssemblyReference.cache
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\obj\Debug\netcoreapp3.1\LargestSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\obj\Debug\netcoreapp3.1\LargestSubstring.AssemblyInfoInputs.cache
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\obj\Debug\netcoreapp3.1\LargestSubstring.AssemblyInfo.cs
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\obj\Debug\netcoreapp3.1\LargestSubstring.csproj.CoreCompileInputs.cache
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\obj\Debug\netcoreapp3.1\LargestSubstring.dll
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\obj\Debug\netcoreapp3.1\LargestSubstring.pdb
+C:\Users\jquinoo\source\repos\LargestSubstring\LargestSubstring\obj\Debug\netcoreapp3.1\LargestSubstring.genruntimeconfig.cache
